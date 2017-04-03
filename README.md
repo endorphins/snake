@@ -34,10 +34,10 @@ No usage yet.
 * A functioning game...
 * Pause / Restart feature.
 * A main menu with various options.
- * New Game
- * Leaderboards
- * Options
- * Exit
+    * New Game
+    * Leaderboards
+    * Options
+    * Exit
 * Multiplayer?
 
 <a name="faq"></a>
@@ -50,7 +50,7 @@ No usage yet.
 ### Q&A
 
 * **Q: Can I fork this repo?**
- * _A: Yes, but there isn't really a point..._
+    * _A: Yes, but there isn't really a point..._
 
 <a name="more_info"></a>
 ## More Information
@@ -65,8 +65,8 @@ This is a list of developers that you can contact for assistance on something th
 **Please only message us as a last resort or if it is very important!**
 
 * Tyler Pacheco ([endorphins][endorphins])
- * _email_: tyler.n.pacheco@gmail.com
- * _github_: https://github.com/endorphins
+    * _email_: tyler.n.pacheco@gmail.com
+    * _github_: https://github.com/endorphins
 
 ### Developers
 
