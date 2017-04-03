@@ -73,6 +73,6 @@ This is a list of developers that you can contact for assistance on something th
 * Tyler Pacheco ([endorphins][endorphins])
 
 [endorphins]: https://github.com/endorphins
-[github page]: https://github.com/endorphins/hello-git
-[github issues]: https://github.com/endorphins/hello-git/issues
-[github wiki]: https://github.com/endorphins/hello-git/wiki
+[github page]: https://github.com/endorphins/snake
+[github issues]: https://github.com/endorphins/snake/issues
+[github wiki]: https://github.com/endorphins/snake/wiki
