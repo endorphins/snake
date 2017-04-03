@@ -7,16 +7,16 @@ By [Endorphins][endorphins]
 | [Introduction](#introduction)         |
 | [Installation](#installation)         |
 | [Usage](#usage)                       |
-| [Planned Features](#planned features) |
+| [Planned Features](#planned_features) |
 | [FAQ / Q&A](#faq)                     |
-| [More Information](#more info)        |
+| [More Information](#more_info)        |
 
 <a name="introduction"></a>
 ##Introduction
 
  **NOTE: This is the README.md, it uses Markdown and should be read with an application that can use it. If not, it should still be readable with anything that can read *.txt files.** 
 
-Making snake using Unity 2D. Introducing myself to Unity and game development.
+Making snake using Unity 2D. Introducing myself to Unity and game development. The tutorial I followed can be found [here](https://noobtuts.com/unity/2d-snake-game)
 
 <a name="installation"></a>
 ##Installation
@@ -28,7 +28,7 @@ No installation yet.
 
 No usage yet.
 
-<a name="planned features"></a>
+<a name="planned_features"></a>
 ##Planned Features
 
 * A functioning game...
@@ -51,7 +51,7 @@ No usage yet.
 * **Q: Can I fork this repo?**
  * _A: Yes, but there isn't really a point..._
 
-<a name="more info"></a>
+<a name="more_info"></a>
 ##More Information
 
 ###Bug Reports
