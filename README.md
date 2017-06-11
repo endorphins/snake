@@ -16,7 +16,7 @@ By [Endorphins][endorphins]
 
  <!-- NOTE: This is the README.md, it uses Markdown and should be read with an application that can use it. If not, it should still be readable with anything that can read *.txt files. -->
 
-Making snake using Unity 2D. Introducing myself to Unity and game development. The tutorial I followed can be found [here](https://noobtuts.com/unity/2d-snake-game)
+Making snake using Unity 2D. Introducing myself to Unity and game development. The tutorial I followed can be found [here](https://noobtuts.com/unity/2d-snake-game).
 
 <a name="installation"></a>
 ## Installation
